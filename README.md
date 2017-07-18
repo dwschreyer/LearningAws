@@ -8,3 +8,6 @@ Notes on this course will be added here.
 Stuff goes here. Should result in a local conflict.
 
 Make another paragraph.
+
+And yet another paragraph.
+
